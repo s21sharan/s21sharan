@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi, im sharan 👋
+i'm an EE major at UCLA!
 
 <!--
 **s21sharan/s21sharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
